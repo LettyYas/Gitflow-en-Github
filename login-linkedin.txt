@@ -1,0 +1,14 @@
+Si una función de LinkedIn sigue sin funcionar como se esperaba o si ves un mensaje de problema inesperado que impide que el sistema complete una acción, prueba las siguientes soluciones de solución de problemas.
+
+Le sugerimos que intente usar la función después de realizar cada una de las soluciones de solución de problemas. Esto podría ayudarle a determinar la causa del problema.
+
+Haz clic en el icono  en la parte superior de tu página de inicio de LinkedIn, selecciona Cerrar sesión y, a continuación, vuelve a iniciar sesión.
+
+Inicie sesión en LinkedIn desde el modo de incógnito del navegador.
+
+Borre la caché y las cookies de su navegador actual.
+
+Prueba otro navegador. Por ejemplo, si accedes a LinkedIn a través de Google Chrome, prueba a usar Firefox o Safari. Para una experiencia óptima del sitio, un mejor cifrado y soporte de privacidad, recomendamos usar las últimas versiones (versiones principales actuales y anteriores) de los navegadores.
+
+Ahí va un consejo
+Si está utilizando la última versión de su navegador y todavía tiene dificultades al usar LinkedIn, puede deberse al bloqueador de ventanas emergentes de su navegador. Deshabilitar el bloqueador de elementos emergentes de su navegador puede resolver su problema.

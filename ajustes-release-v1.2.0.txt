@@ -1,0 +1,3 @@
+La rama release en Git se define como un tipo de rama auxiliar en el sistema, que se bifurca en las situaciones donde la rama develop tenga la cantidad necesaria para realizar una publicación, o cuando esta se encuentre cerca a una determinada fecha de publicación estipulada.
+
+De modo que, al crear una rama release en Git, el sistema empieza con el ciclo de publicación posterior, lo que implica que no será posible agregar funciones después de este punto.

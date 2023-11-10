@@ -1,0 +1,5 @@
+Con el botón Iniciar sesión puedes activar fácilmente el proceso de inicio de sesión con Facebook en tu aplicación o sitio web.
+Verán este botón las personas que aún no hayan iniciado sesión en la aplicación. Al hacer clic en él, se abrirá un cuadro de diálogo que desencadenará el proceso de inicio de sesión. Las personas que ya tengan la sesión iniciada no lo verán, aunque sí podrán ver un botón para cerrar sesión si así lo especificas.
+Si decides mostrar un botón para cerrar sesión, cuando las personas hagan clic en él saldrán tanto de la aplicación como de Facebook.
+El botón Iniciar sesión está diseñado para funcionar únicamente con el SDK para JavaScript. Si estás desarrollando una aplicación para móviles o no puedes utilizar este SDK, sigue la guía del proceso de inicio de sesión específica para el tipo de aplicación en cuestión.
+El botón Continuar con Facebook reemplaza las versiones anteriores del botón Iniciar sesión.
